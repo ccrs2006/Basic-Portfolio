@@ -99,6 +99,12 @@ li {
 	list-style: none;
 }
 
+li img {
+	border-radius: 20px;
+	border: 1px solid #222222;
+	box-shadow: 12px 12px 8px #666666;
+}
+
 label {
 	background-color: #4aaaa5;
 	display: block;
